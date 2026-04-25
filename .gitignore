@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Node.js (if added later)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.fleet/
+
+# Build·distribution
+dist/
+build/
+*.zip
+personas-share-*.zip
+
+# Secrets (precaution — 본 repo는 secrets X but 안전망)
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials.json

@@ -1,0 +1,60 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 K-Worker · 문유
+
+이 저작물은 Creative Commons Attribution 4.0 International License 하에 배포됩니다.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+## 한국어 요약
+
+이 데이터는 출처를 표기하는 조건으로 자유롭게 사용·수정·상업 이용할 수 있습니다.
+
+**출처 표기 예시**:
+"K-Worker — 한국 직장인 페르소나 20명 (문유 @moon_ys_yu, 2026) · github.com/{username}/K-Worker 참조"
+
+**포함 내용 (v3.5 기준)**:
+- 페르소나 문서 20개 (P01~P20, 13축 영혼 마크다운)
+- 데이터 JSON 3종 (index·defaults·schema)
+- AI 시뮬 프롬프트 템플릿 8종
+- 페르소나 × 테스트 시나리오 매트릭스 7종
+- 20명 종합 매트릭스 (MATRIX.md)
+
+**주의사항**:
+- 모든 페르소나 = **가공·합성 인물.** 실명 X · 실재 인물 우연 일치 시 무관
+- 공개 통계·언론 보도 + 한국 유튜브 댓글 12,687개 코퍼스 base
+- 회사·브랜드명 = 공개 사실 언급 한정 (광고·비방 X)
+- 실제 유저 1:1 인터뷰 기반 X (가설 페르소나)
+
+---
+
+## 댓글 인용 별도 안내 (Fair Use)
+
+페르소나 영혼 안의 한국 유튜브 댓글 인용은 **연구·교육 목적 fair use** 적용:
+- 작성자 **익명 처리** (이름·채널명 X)
+- 원 영상 **출처 표기** (영상 코드 + URL)
+- 좋아요 수 표기 (대중 공감 지표)
+
+**상업 용도로 본 데이터를 재배포하실 경우**, 댓글 인용 부분은 별도 권리이므로 **검토·교체 권장**. 댓글 작성자·YouTube 측에서 권리 침해 우려 시 즉시 연락 → 24시간 내 제거.
+
+---
+
+## 면책
+
+- 시급·연봉·이직·자격증·세금 등 모든 수치 = **참고용**
+- 실제 의사결정 시 세무사·노무사·진로 전문가 상담 권장
+- 본 데이터를 활용한 결정·결과에 대해 작성자는 책임지지 않습니다.
